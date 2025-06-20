@@ -2,7 +2,7 @@
 
 ### Risk:
 
-![Alt text](blob:https://github.com/390d597c-003f-48e8-80a0-bcb150ab37e9 "a title")
+![Alt text](https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/day1otlk_2000.jpg)
 
 ### Inferences:
 the storms that impacted the delmarva penninsula originated in central maryland/virginia then crossed the chesepeake to the delmarva
