@@ -2,23 +2,27 @@
 
 ### Risk:
 
-![Alt text](https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/day1otlk_2000.jpg)
+<img src="https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/day1otlk_2000.jpg" alt="Risk Map" style="max-width: 600px; width: 100%; height: auto;" />
 
 ### Inferences:
-the storms that impacted the delmarva penninsula originated in central maryland/virginia then crossed the chesepeake to the delmarva
 
+The storms that impacted the Delmarva Peninsula originated in central Maryland/Virginia, then crossed the Chesapeake to Delmarva.
 
-the storm bases were higher compared to other storms i hae seen in past severe weather events, likely due to a lower due point:
-![Alt text](https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/IMG_0049.JPG) ![Alt text](https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/IMG_0050.JPG) 
+The storm bases were higher compared to other storms I have seen in past severe weather events, likely due to a lower dew point:
 
-the storms came in waves that looked like a broken squall line on radar:
-![Alt text](https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/IMG_0052.PNG) 
+<img src="https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/IMG_0049.JPG" alt="Storm Base 1" style="max-width: 600px; width: 100%; height: auto;" />
+<img src="https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/IMG_0050.JPG" alt="Storm Base 2" style="max-width: 600px; width: 100%; height: auto;" />
 
-They moved from SW to NE
+The storms came in waves that looked like a broken squall line on radar:
+
+<img src="https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/IMG_0052.PNG" alt="Radar Image" style="max-width: 600px; width: 100%; height: auto;" />
+
+They moved from SW to NE.
 
 ---
-Severe storm warning:
----
+
+### Severe storm warning:
+
 <audio controls>
   <source src="wicomico_severe_storm_warning.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
