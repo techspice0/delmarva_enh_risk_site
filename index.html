@@ -33,26 +33,17 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    const markdown = `
-# Dark Mode Markdown
-
-This is a **dark-themed** Markdown viewer.
-
-## Features
-
-- Renders Markdown
-- Dark mode styling
-- Syntax highlighting (basic)
-
-\`\`\`js
-// Example code block
-console.log("Hello, world!");
-\`\`\`
-
-[Marked Documentation](https://marked.js.org/)
-    `;
-
-    document.getElementById('content').innerHTML = marked.parse(markdown);
+    fetch('readme.mkdn')
+      .then(res => {
+        if (!res.ok) throw new Error('File not found');
+        return res.text();
+      })
+      .then(md => {
+        document.getElementById('content').innerHTML = marked.parse(md);
+      })
+      .catch(err => {
+        document.getElementById('content').innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+      });
   </script>
 </body>
 </html>
