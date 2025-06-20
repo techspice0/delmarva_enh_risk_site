@@ -8,8 +8,6 @@
 
 The storms that impacted the Delmarva Peninsula originated in central Maryland/Virginia, then crossed the Chesapeake to Delmarva.
 
----
-
 The storm bases were higher compared to other storms I have seen in past severe weather events, likely due to a lower dew point:
 
 <img src="https://raw.githubusercontent.com/techspice0/delmarva_enh_risk_site/refs/heads/main/IMG_0049.JPG" alt="Storm Base 1" style="max-width: 600px; width: 100%; height: auto;" />
